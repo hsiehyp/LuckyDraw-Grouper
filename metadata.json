@@ -1,0 +1,5 @@
+{
+  "name": "LuckyDraw & Grouper",
+  "description": "A versatile tool for prize draws with animations and automatic group partitioning from CSV or text sources.",
+  "requestFramePermissions": []
+}
