@@ -111,7 +111,7 @@ LuckyDraw-Grouper/
 npm run build
 # dist/ 資料夾即為靜態網站，可部署到任何靜態主機
 ```
-
+ 
 ## 📜 License
 
 Apache-2.0
